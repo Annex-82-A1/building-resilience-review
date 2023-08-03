@@ -9,5 +9,8 @@ This work is part of the research activities of the International Energy Agency 
 
 Syracuse University’s (SU) effort was supported by the U.S. National Science Foundation (Awards No. 1949372 and 2125775).
 
+Texas A&M’s effort was partially supported by the U.S. National Science Foundation (Awards No. 2309030). 
+
+
 ## Contact
 If you have general questions, please contact [Zheng O'Neill](zoneill@tamu.edu).
